@@ -11,6 +11,7 @@ node adminbot.js
 node main.js
 "Restful Api Server start at http://localhost:8080/..."
 
+"type": "module",
 
 project/
 
