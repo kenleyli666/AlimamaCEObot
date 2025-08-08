@@ -1,6 +1,6 @@
-npm i
-npm i axios express mongodb mongoose node-telegram-bot-api
-npm dotenv
+npm i &
+npm i axios express mongodb mongoose node-telegram-bot-api & 
+npm i dotenv
 
 create .env 
 TELEGRAM_BOT_TOKEN=你的Bot_Token_放這裡
